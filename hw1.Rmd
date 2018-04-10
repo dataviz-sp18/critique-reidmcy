@@ -11,6 +11,7 @@ bibliography: bibliography.bib
 For this critique we will be looking at the visual on page 71 of _The Dynamics of 2-Generator Subgroups of PSL (2, __C__)_ [@brooks1981dynamics], found [here](http://www.math.harvard.edu/archive/118r_spring_05/docs/brooksmatelski.pdf)
 
 ![Selected visual](images/page-71.png)
+
 ## Truthfulness
 
 The visual is trivially truthful, the phenomena that generated it is well known and I have even personally written software to examine the set. This visual when it was created though was the first ever to look at the stable orbits of $f(z) = z^2  + c$ and thus at the time people would have to trust Brooks and Matelski. The one possible truthfulness issue with the visual is that it makes the second smallest circle appear to be an oval. The small circle is in fact perfectly circular and centred around $(-1,0)$ neither of which  is evident from the original figure. This issue though is more of sampling than of truth, the samples were choose without knowing what the shape would be so although a better sampling origin might exist, we only know that post hoc.
