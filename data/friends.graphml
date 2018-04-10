@@ -1,0 +1,965 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="new" attr.type="boolean" for="edge" id="d3"/>
+<key attr.name="regard" attr.type="boolean" for="edge" id="d2"/>
+<key attr.name="advice" attr.type="boolean" for="edge" id="d1"/>
+<key attr.name="weight" attr.type="long" for="edge" id="d0"/>
+<graph edgedefault="directed"><node id="1"/>
+<node id="2"/>
+<node id="18"/>
+<node id="21"/>
+<node id="28"/>
+<node id="32"/>
+<node id="4"/>
+<node id="5"/>
+<node id="6"/>
+<node id="0"/>
+<node id="22"/>
+<node id="34"/>
+<node id="36"/>
+<node id="8"/>
+<node id="27"/>
+<node id="9"/>
+<node id="15"/>
+<node id="38"/>
+<node id="39"/>
+<node id="10"/>
+<node id="14"/>
+<node id="23"/>
+<node id="12"/>
+<node id="26"/>
+<node id="20"/>
+<node id="17"/>
+<node id="3"/>
+<node id="25"/>
+<node id="37"/>
+<node id="7"/>
+<node id="11"/>
+<node id="29"/>
+<node id="33"/>
+<node id="16"/>
+<node id="13"/>
+<edge source="1" target="1">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="2" target="2">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="2" target="18">
+  <data key="d0">8</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="2" target="21">
+  <data key="d0">20</data>
+  <data key="d1">True</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="2" target="28">
+  <data key="d0">6</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="2" target="32">
+  <data key="d0">10</data>
+  <data key="d1">True</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="18" target="18">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="18" target="2">
+  <data key="d0">10</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="18" target="21">
+  <data key="d0">0</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="18" target="26">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="18" target="28">
+  <data key="d0">100</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="18" target="32">
+  <data key="d0">100</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="21" target="21">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="21" target="2">
+  <data key="d0">20</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="21" target="9">
+  <data key="d0">15</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="21" target="18">
+  <data key="d0">0</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="21" target="28">
+  <data key="d0">10</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="21" target="34">
+  <data key="d0">10</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="28" target="28">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="28" target="2">
+  <data key="d0">2</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="28" target="18">
+  <data key="d0">20</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="28" target="21">
+  <data key="d0">10</data>
+  <data key="d1">True</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="28" target="32">
+  <data key="d0">20</data>
+  <data key="d1">True</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="32" target="32">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="32" target="2">
+  <data key="d0">5</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="32" target="18">
+  <data key="d0">10</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="32" target="28">
+  <data key="d0">10</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="4" target="4">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="5" target="5">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="6" target="6">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="6" target="0">
+  <data key="d0">3</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="6" target="22">
+  <data key="d0">2</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="6" target="34">
+  <data key="d0">1</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="6" target="36">
+  <data key="d0">5</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="22" target="22">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="22" target="3">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="22" target="9">
+  <data key="d0">0</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="22" target="12">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="22" target="14">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="22" target="17">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="22" target="23">
+  <data key="d0">0</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="22" target="25">
+  <data key="d0">0</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="22" target="26">
+  <data key="d0">4</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="22" target="34">
+  <data key="d0">3</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="22" target="36">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="22" target="37">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="34" target="34">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="34" target="9">
+  <data key="d0">12</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="34" target="10">
+  <data key="d0">2</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="34" target="15">
+  <data key="d0">3</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="34" target="21">
+  <data key="d0">12</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="34" target="22">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="34" target="33">
+  <data key="d0">7</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="34" target="39">
+  <data key="d0">0</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="36" target="36">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="36" target="0">
+  <data key="d0">3</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="36" target="6">
+  <data key="d0">4</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="36" target="16">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="36" target="22">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="36" target="26">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="36" target="34">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="36" target="37">
+  <data key="d0">3</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="8" target="8">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="8" target="1">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="8" target="27">
+  <data key="d0">30</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="27" target="27">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="27" target="8">
+  <data key="d0">30</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="27" target="18">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="27" target="26">
+  <data key="d0">3</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="9" target="9">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="9" target="1">
+  <data key="d0">10</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="9" target="15">
+  <data key="d0">10</data>
+  <data key="d1">True</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="9" target="21">
+  <data key="d0">10</data>
+  <data key="d1">True</data>
+  <data key="d2">False</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="9" target="34">
+  <data key="d0">5</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="9" target="38">
+  <data key="d0">2</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="9" target="39">
+  <data key="d0">10</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="15" target="15">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="15" target="9">
+  <data key="d0">7</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="15" target="10">
+  <data key="d0">3</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="15" target="14">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="15" target="20">
+  <data key="d0">7</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="15" target="21">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="15" target="23">
+  <data key="d0">4</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="15" target="34">
+  <data key="d0">3</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="15" target="38">
+  <data key="d0">4</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="15" target="39">
+  <data key="d0">7</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="38" target="38">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="38" target="9">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="38" target="10">
+  <data key="d0">8</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="38" target="14">
+  <data key="d0">0</data>
+  <data key="d1">True</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="38" target="15">
+  <data key="d0">3</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="38" target="23">
+  <data key="d0">3</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="39" target="39">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="39" target="9">
+  <data key="d0">12</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="39" target="10">
+  <data key="d0">5</data>
+  <data key="d1">True</data>
+  <data key="d2">False</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="39" target="13">
+  <data key="d0">2</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="39" target="14">
+  <data key="d0">3</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="39" target="15">
+  <data key="d0">30</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="39" target="16">
+  <data key="d0">5</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="39" target="20">
+  <data key="d0">12</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="39" target="23">
+  <data key="d0">8</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="39" target="33">
+  <data key="d0">4</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="39" target="34">
+  <data key="d0">2</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="39" target="38">
+  <data key="d0">3</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="10" target="10">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="10" target="9">
+  <data key="d0">0</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="10" target="14">
+  <data key="d0">2</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="10" target="15">
+  <data key="d0">2</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="10" target="23">
+  <data key="d0">5</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="10" target="38">
+  <data key="d0">5</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="10" target="39">
+  <data key="d0">3</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="14" target="14">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="14" target="10">
+  <data key="d0">5</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="14" target="15">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="14" target="22">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="14" target="23">
+  <data key="d0">6</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="14" target="26">
+  <data key="d0">1</data>
+  <data key="d1">True</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="14" target="39">
+  <data key="d0">2</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="23" target="23">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="23" target="10">
+  <data key="d0">4</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="23" target="14">
+  <data key="d0">4</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="23" target="15">
+  <data key="d0">3</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="23" target="39">
+  <data key="d0">3</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="12" target="12">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="12" target="22">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="12" target="26">
+  <data key="d0">2</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="26" target="26">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="26" target="3">
+  <data key="d0">10</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="26" target="22">
+  <data key="d0">5</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="26" target="25">
+  <data key="d0">3</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="26" target="27">
+  <data key="d0">0</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="26" target="29">
+  <data key="d0">3</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="26" target="34">
+  <data key="d0">0</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="20" target="20">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="20" target="10">
+  <data key="d0">4</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="20" target="15">
+  <data key="d0">5</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="20" target="23">
+  <data key="d0">4</data>
+  <data key="d1">True</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="20" target="39">
+  <data key="d0">12</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="17" target="17">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="17" target="22">
+  <data key="d0">4</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="25" target="25">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="25" target="7">
+  <data key="d0">6</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="25" target="11">
+  <data key="d0">4</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="25" target="26">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="25" target="29">
+  <data key="d0">10</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="29" target="29">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="29" target="2">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="29" target="25">
+  <data key="d0">18</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="29" target="26">
+  <data key="d0">2</data>
+  <data key="d1">False</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="33" target="33">
+  <data key="d0">1</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="33" target="10">
+  <data key="d0">3</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">True</data>
+</edge>
+<edge source="33" target="22">
+  <data key="d0">2</data>
+  <data key="d1">False</data>
+  <data key="d2">False</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="33" target="34">
+  <data key="d0">10</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+<edge source="33" target="39">
+  <data key="d0">4</data>
+  <data key="d1">True</data>
+  <data key="d2">True</data>
+  <data key="d3">False</data>
+</edge>
+</graph></graphml>
