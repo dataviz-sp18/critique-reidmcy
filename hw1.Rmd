@@ -17,7 +17,7 @@ The visual is trivially truthful, the phenomena that generated it is well known 
 
 ## Functional
 
-The visual is very functional. The centring of the real axis is standard in visuals of complex functions and placing the imagery axis slightly to the right of centre leads to a much more visually appealing centring of the figure. Since if was not done the figure would about one third wasted space. That said the indications for each of the axis leave something to be desired as there are only three and one $(-.07,.96)$ is off axis slightly, although this is likely due to their not being a column at exactly $RE(c) = 0$ and thus a limitation of the medium/epoch. The use of purely typewritten components in the visual means every component required thought and effort to create which leads to the minimalism of the (pre) ASCII art drawing, which I belive is much more functional than many of the more complex drawings created recently.
+The visual is very functional. The centring of the real axis is standard in visuals of complex functions and placing the imagery axis slightly to the right of centre leads to a much more visually appealing centring of the figure. Since if was not done the figure would about one third wasted space. That said the indications for each of the axis leave something to be desired as there are only three and one $(-.07,.96)$ is off axis slightly, although this is likely due to their not being a column at exactly $RE(c) = 0$ and thus a limitation of the medium/epoch. The use of purely typewritten components in the visual means every component required thought and effort to create which leads to the minimalism of the (pre) ASCII art drawing, which I believe is much more functional than many of the more complex drawings created recently.
 
 ## Beauty
 
@@ -31,7 +31,6 @@ This visual both marks the termination of years of work by Benoit Mandelbrot and
 
 There are two significant pieces of information in the graphic. First there is the information about the Julia sets, understanding that they are not symmetrical distributed across the reals and in particular that near $(-1,0)$ is rich, is an important point to some people studying complex analysis. The second more generally appealing point is that the a simple formula $f(z) = z^2  + c$ can produce such a complicated shape. If this insight is pursued some of the most beautiful results of complex analysis are quick to emerge, such as much more complete visuals of the Mandelbrot set in the same domain or other more esoteric visuals such as the Buddhabrot [@jovanovic2009new]. These insights also lead to many of the techniques used in contemporary animation for complex scenery and other algorithmically generated objects.
 
-
 # Part 2
 
 ``` {R part_2, eval=FALSE}
@@ -40,7 +39,7 @@ library(ggplot2)
 library(purrr)
 library(xkcdcolors)
 
-g <- read_graph('friends.graphml', format = "graphml")
+g <- read_graph('data/friends.graphml', format = "graphml")
 g <- igraph::simplify(g, edge.attr.comb = NULL, remove.multiple = FALSE)
 g <- delete.vertices(g, degree(g)==0)
 
